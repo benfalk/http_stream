@@ -1,0 +1,2 @@
+defmodule WebStream do
+end
